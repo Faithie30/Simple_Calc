@@ -1,4 +1,4 @@
-from Calc import calc
+from calc import calc
 
 def test_add():
     assert calc.add(0,0) == 0

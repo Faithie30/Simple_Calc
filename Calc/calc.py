@@ -6,9 +6,9 @@ def add(*args):
     return sumofnum 
 
 # production function
-def multiply(*args):
+def multiply(*arg):
     productofnum = 1
-    for eachnum in args:
+    for eachnum in arg:
         productofnum *= eachnum
     return productofnum
 

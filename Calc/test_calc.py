@@ -1,5 +1,6 @@
 # importing class
 import calc
+import pytest
 
 # create summing function
 def test_add():
